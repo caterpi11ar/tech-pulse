@@ -1,13 +1,8 @@
 # tech-pulse
 
 > AI · Crypto · Tech — 每日深度解读，有观点，有态度。
-
-每天自动抓取 AI、加密货币、前沿科技领域的重要动态，生成中英双语深度解读文章。
-
-- **风格**：有观点，有态度，不是新闻稿
-- **更新频率**：每日
-- **语言**：中文 + English
-- **内容来源**：62个 RSS 源 · 28个 GitHub 仓库 · 13个 Reddit 社区
+>
+> Daily in-depth analysis on AI, Crypto & Tech — with opinions.
 
 ---
 
@@ -26,7 +21,29 @@
 
 ---
 
-## 目录结构
+## 关于本项目 / About
+
+**中文**
+
+每天自动抓取 AI、加密货币、前沿科技领域的重要动态，生成中英双语深度解读文章。
+
+- **风格**：有观点，有态度，不是新闻稿
+- **更新频率**：每日
+- **语言**：中文 + English
+- **内容来源**：62个 RSS 源 · 28个 GitHub 仓库 · 13个 Reddit 社区
+
+**English**
+
+Daily automated curation of AI, crypto, and frontier tech — with bilingual in-depth analysis, not press releases.
+
+- **Style**: Opinionated. Direct. No PR fluff.
+- **Frequency**: Daily
+- **Languages**: 中文 + English
+- **Sources**: 62 RSS feeds · 28 GitHub repos · 13 Reddit communities
+
+---
+
+## 目录结构 / Structure
 
 ```
 YYYY/MM/DD/
