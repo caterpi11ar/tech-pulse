@@ -1,6 +1,6 @@
 # tech-pulse
 
-> AI · Tech — 每日科技资讯，客观转述，带图。
+> AI · Tech — 每日科技资讯 | Daily AI & Tech news digest in Chinese.
 
 ---
 
